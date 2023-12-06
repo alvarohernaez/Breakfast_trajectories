@@ -20,7 +20,7 @@
 
 ## Syntax available
 Available files: 
-- Syntax: syntax for trajectory analyses
+- syntax_github: syntax for trajectory analyses
 
 
 ## Citation
